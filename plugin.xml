@@ -13,7 +13,8 @@
     <license>MIT</license>
 
 	<platform name="android">
-		<source-file src="google-services.json" target-dir="./"/>
+		<source-file src="google-services.json" target-dir=""/>
+		<source-file src="google-services.json" target-dir="res"/>
 	</platform>
 
 	<platform name="ios">
