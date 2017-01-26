@@ -13,7 +13,14 @@
     <license>MIT</license>
 
 	<platform name="android">
-		<source-file src="google-services.json" target-dir="./"/>
+		<source-file src="strings.xml" target-dir="./res/values/"/>
+		<source-file src="strings.xml" target-dir="./res/values-id/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-US/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-IN/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-GB/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-CA/"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-SG/"/>
 	</platform>
 
 	<platform name="ios">
