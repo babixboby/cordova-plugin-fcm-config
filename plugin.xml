@@ -13,7 +13,6 @@
     <license>MIT</license>
 
 	<platform name="android">
-		<source-file src="strings.xml" target-dir="./res/values/"/>
 		<source-file src="strings.xml" target-dir="./res/values-id/"/>
 		<source-file src="strings.xml" target-dir="./res/values-en/"/>
 		<source-file src="strings.xml" target-dir="./res/values-en-US/"/>
