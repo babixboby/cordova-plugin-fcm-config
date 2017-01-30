@@ -13,7 +13,12 @@
     <license>MIT</license>
 
 	<platform name="android">
-		<source-file src="strings.xml" target-dir="./res/values-in"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rAU"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rIN"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rSG"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rUS"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rGB"/>
+		<source-file src="strings.xml" target-dir="./res/values-en-rCA"/>
 	</platform>
 
 	<platform name="ios">
