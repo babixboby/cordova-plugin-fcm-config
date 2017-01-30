@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="messenger_send_button_text">Kirim</string>
-    <string name="app_name">Keuanganku</string>
+    <string name="app_name">Money Saver</string>
 </resources>
