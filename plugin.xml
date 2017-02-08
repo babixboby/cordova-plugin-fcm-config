@@ -19,8 +19,8 @@
 		<source-file src="strings.xml" target-dir="./res/values-en-rUS"/>
 		<source-file src="strings.xml" target-dir="./res/values-en-rGB"/>
 		<source-file src="strings.xml" target-dir="./res/values-en-rCA"/>
-		<source-file src="close.png" target="./res/drawable-xhdpi/close.png" />
-        	<source-file src="close_pressed.png" target="./res/drawable-xhdpi/close_pressed.png" />
+		<source-file src="close.png" target-dir="./res/drawable-xhdpi/close.png" />
+        	<source-file src="close_pressed.png" target-dir="./res/drawable-xhdpi/close_pressed.png" />
 	</platform>
 
 	<platform name="ios">
