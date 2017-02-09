@@ -19,9 +19,19 @@
 		<source-file src="strings.xml" target-dir="./res/values-en-rUS"/>
 		<source-file src="strings.xml" target-dir="./res/values-en-rGB"/>
 		<source-file src="strings.xml" target-dir="./res/values-en-rCA"/>
-
-		<resource-file src="close.png" target="res/drawable-xhdpi/close.png" />
-        	<resource-file src="close_pressed.png" target="res/drawable-xhdpi/close_pressed.png" />
+		
+		<resource-file src="icon/ldpi/close.png" target="res/drawable-ldpi/close.png" />
+        	<resource-file src="icon/ldpi/close_pressed.png" target="res/drawable-ldpi/close_pressed.png" />		
+		<resource-file src="icon/mdpi/close.png" target="res/drawable-mdpi/close.png" />
+        	<resource-file src="icon/mdpi/close_pressed.png" target="res/drawable-mdpi/close_pressed.png" />
+		<resource-file src="icon/hdpi/close.png" target="res/drawable-hdpi/close.png" />
+        	<resource-file src="icon/hdpi/close_pressed.png" target="res/drawable-hdpi/close_pressed.png" />
+		<resource-file src="icon/xhdpi/close.png" target="res/drawable-xhdpi/close.png" />
+        	<resource-file src="icon/xhdpi/close_pressed.png" target="res/drawable-xhdpi/close_pressed.png" />
+		<resource-file src="icon/xxhdpi/close.png" target="res/drawable-xxhdpi/close.png" />
+        	<resource-file src="icon/xxhdpi/close_pressed.png" target="res/drawable-xxhdpi/close_pressed.png" />
+		<resource-file src="icon/xxxhdpi/close.png" target="res/drawable-xxxhdpi/close.png" />
+        	<resource-file src="icon/xxxhdpi/close_pressed.png" target="res/drawable-xxxhdpi/close_pressed.png" />		
 	</platform>
 
 	<platform name="ios">
