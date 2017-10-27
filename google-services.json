@@ -1,30 +1,27 @@
 {
   "project_info": {
-    "project_number": "638347616095",
-    "firebase_url": "https://onet-warriors.firebaseio.com",
-    "project_id": "onet-warriors",
-    "storage_bucket": "onet-warriors.appspot.com"
+    "project_number": "370913736933",
+    "firebase_url": "https://bendaharaesteh.firebaseio.com",
+    "project_id": "bendaharaesteh",
+    "storage_bucket": "bendaharaesteh.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:638347616095:android:0443cb554d1ae6a9",
+        "mobilesdk_app_id": "1:370913736933:android:dd8aeeeece10b171",
         "android_client_info": {
-          "package_name": "com.game.onetwarrior"
+          "package_name": "com.coba.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "638347616095-k0c7l8b8a8m5srnh0k0b6jo98ffr8a97.apps.googleusercontent.com",
+          "client_id": "370913736933-4t049j8hk14hd9jidboijrsofq5ihulq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDBB-tUVyNVS_bKTRieOj8w7J_0ILwS4ig"
-        },
-        {
-          "current_key": "AIzaSyC01KDUzfZZBADicO_qyF13EFxMFTFLMKc"
+          "current_key": "AIzaSyD-QiJgWnLiP6zVB8EhFK8NzMo-ooaO2Yg"
         }
       ],
       "services": {
