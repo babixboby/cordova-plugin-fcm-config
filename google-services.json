@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "370913736933",
-    "firebase_url": "https://bendaharaesteh.firebaseio.com",
-    "project_id": "bendaharaesteh",
-    "storage_bucket": "bendaharaesteh.appspot.com"
+    "project_number": "572378527509",
+    "firebase_url": "https://bendaharaesjus.firebaseio.com",
+    "project_id": "bendaharaesjus",
+    "storage_bucket": "bendaharaesjus.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:370913736933:android:dd8aeeeece10b171",
+        "mobilesdk_app_id": "1:572378527509:android:b69a1af038dad2bc",
         "android_client_info": {
-          "package_name": "com.coba.firebase"
+          "package_name": "com.kedai.jus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "370913736933-4t049j8hk14hd9jidboijrsofq5ihulq.apps.googleusercontent.com",
+          "client_id": "572378527509-1eq288997id8d34n7qa97dg48mecgq6d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD-QiJgWnLiP6zVB8EhFK8NzMo-ooaO2Yg"
+          "current_key": "AIzaSyBp7Y28jHott2bfm-jftaD-iKy8566yWxU"
         }
       ],
       "services": {
