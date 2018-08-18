@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "572378527509",
-    "firebase_url": "https://bendaharaesjus.firebaseio.com",
-    "project_id": "bendaharaesjus",
-    "storage_bucket": "bendaharaesjus.appspot.com"
+    "project_number": "84013198022",
+    "firebase_url": "https://duel-cpns.firebaseio.com",
+    "project_id": "duel-cpns",
+    "storage_bucket": "duel-cpns.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:572378527509:android:b69a1af038dad2bc",
+        "mobilesdk_app_id": "1:84013198022:android:121eccffda027dc6",
         "android_client_info": {
-          "package_name": "com.kedai.jus"
+          "package_name": "com.game.duelcpns"
         }
       },
       "oauth_client": [
         {
-          "client_id": "572378527509-1eq288997id8d34n7qa97dg48mecgq6d.apps.googleusercontent.com",
+          "client_id": "84013198022-ptnphop96n75mqqo13uqslb2hljtf8re.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBp7Y28jHott2bfm-jftaD-iKy8566yWxU"
+          "current_key": "AIzaSyDeRkQHKW9Ic3mocFbfnRJAbQO590fcIrU"
         }
       ],
       "services": {
