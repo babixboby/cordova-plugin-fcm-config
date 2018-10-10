@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "84013198022",
-    "firebase_url": "https://duel-cpns.firebaseio.com",
-    "project_id": "duel-cpns",
-    "storage_bucket": "duel-cpns.appspot.com"
+    "project_number": "809571535391",
+    "firebase_url": "https://cpns2018id.firebaseio.com",
+    "project_id": "cpns2018id",
+    "storage_bucket": "cpns2018id.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:84013198022:android:121eccffda027dc6",
+        "mobilesdk_app_id": "1:809571535391:android:8f67aadc062b2d22",
         "android_client_info": {
-          "package_name": "com.game.duelcpns"
+          "package_name": "com.game.calocpns2018"
         }
       },
       "oauth_client": [
         {
-          "client_id": "84013198022-ptnphop96n75mqqo13uqslb2hljtf8re.apps.googleusercontent.com",
+          "client_id": "809571535391-g87562dijijnpvehhiqnqovga6bfbpoo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDeRkQHKW9Ic3mocFbfnRJAbQO590fcIrU"
+          "current_key": "AIzaSyA2shDULv6v85BwPZIShpHXc1fCwvtwTaE"
         }
       ],
       "services": {
