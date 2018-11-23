@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "809571535391",
-    "firebase_url": "https://cpns2018id.firebaseio.com",
-    "project_id": "cpns2018id",
-    "storage_bucket": "cpns2018id.appspot.com"
+    "project_number": "625831147894",
+    "firebase_url": "https://cari-kata-b42dc.firebaseio.com",
+    "project_id": "cari-kata-b42dc",
+    "storage_bucket": "cari-kata-b42dc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:809571535391:android:8f67aadc062b2d22",
+        "mobilesdk_app_id": "1:625831147894:android:c6608327eda526d9",
         "android_client_info": {
-          "package_name": "com.game.calocpns2018"
+          "package_name": "com.game.carikataberhadiah"
         }
       },
       "oauth_client": [
         {
-          "client_id": "809571535391-g87562dijijnpvehhiqnqovga6bfbpoo.apps.googleusercontent.com",
+          "client_id": "625831147894-d0khe1a82mjkfbflehmeio7kpv0tjokj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.carikataberhadiah",
+            "certificate_hash": "aa103f6443cfde4baff5ba15f64372296a48d369"
+          }
+        },
+        {
+          "client_id": "625831147894-n5a1e3f55k9e50q5fmg3k0pv1p8r4p49.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA2shDULv6v85BwPZIShpHXc1fCwvtwTaE"
+          "current_key": "AIzaSyCjOHooYKRBFKOkq0OJgOVBru8eOe01m3M"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625831147894-n5a1e3f55k9e50q5fmg3k0pv1p8r4p49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
