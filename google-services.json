@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "625831147894",
-    "firebase_url": "https://cari-kata-b42dc.firebaseio.com",
-    "project_id": "cari-kata-b42dc",
-    "storage_bucket": "cari-kata-b42dc.appspot.com"
+    "project_number": "377789701427",
+    "firebase_url": "https://onet-berhadiah.firebaseio.com",
+    "project_id": "onet-berhadiah",
+    "storage_bucket": "onet-berhadiah.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:625831147894:android:c6608327eda526d9",
+        "mobilesdk_app_id": "1:377789701427:android:5ef76fab4edde52c",
         "android_client_info": {
-          "package_name": "com.game.carikataberhadiah"
+          "package_name": "com.game.onetberhadiah"
         }
       },
       "oauth_client": [
         {
-          "client_id": "625831147894-d0khe1a82mjkfbflehmeio7kpv0tjokj.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.game.carikataberhadiah",
-            "certificate_hash": "aa103f6443cfde4baff5ba15f64372296a48d369"
-          }
-        },
-        {
-          "client_id": "625831147894-n5a1e3f55k9e50q5fmg3k0pv1p8r4p49.apps.googleusercontent.com",
+          "client_id": "377789701427-l8lcavj6knm5p967geoesiqun8ia3jpe.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjOHooYKRBFKOkq0OJgOVBru8eOe01m3M"
+          "current_key": "AIzaSyAydZi0nH7rHuUvY0S6DBlsNor8dWlm19Q"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "625831147894-n5a1e3f55k9e50q5fmg3k0pv1p8r4p49.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
