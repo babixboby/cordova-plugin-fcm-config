@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "377789701427",
-    "firebase_url": "https://onet-berhadiah.firebaseio.com",
-    "project_id": "onet-berhadiah",
-    "storage_bucket": "onet-berhadiah.appspot.com"
+    "project_number": "561144303372",
+    "firebase_url": "https://keuangan-keluarga-8a18f.firebaseio.com",
+    "project_id": "keuangan-keluarga-8a18f",
+    "storage_bucket": "keuangan-keluarga-8a18f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:377789701427:android:5ef76fab4edde52c",
+        "mobilesdk_app_id": "1:561144303372:android:e56e0855460acc7c",
         "android_client_info": {
-          "package_name": "com.game.onetberhadiah"
+          "package_name": "com.uang.keuangankeluargaku"
         }
       },
       "oauth_client": [
         {
-          "client_id": "377789701427-l8lcavj6knm5p967geoesiqun8ia3jpe.apps.googleusercontent.com",
+          "client_id": "561144303372-e2fetm2cqdmfc5sbnble9ek7t00ptqpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uang.keuangankeluargaku",
+            "certificate_hash": "fd447ff981804f8bea77c5978c18238b0aa6b32a"
+          }
+        },
+        {
+          "client_id": "561144303372-cfc5aju8t79udaok36nll36n0lvdhdoj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAydZi0nH7rHuUvY0S6DBlsNor8dWlm19Q"
+          "current_key": "AIzaSyDrVmXb6JsAs92PNhwQy1M_DtEJMaWiApQ"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561144303372-cfc5aju8t79udaok36nll36n0lvdhdoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
