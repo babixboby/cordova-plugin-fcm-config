@@ -1,52 +1,45 @@
 {
   "project_info": {
-    "project_number": "561144303372",
-    "firebase_url": "https://keuangan-keluarga-8a18f.firebaseio.com",
-    "project_id": "keuangan-keluarga-8a18f",
-    "storage_bucket": "keuangan-keluarga-8a18f.appspot.com"
+    "project_number": "85650569154",
+    "firebase_url": "https://forum-cpns-2019.firebaseio.com",
+    "project_id": "forum-cpns-2019",
+    "storage_bucket": "forum-cpns-2019.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561144303372:android:e56e0855460acc7c",
+        "mobilesdk_app_id": "1:85650569154:android:0d65925b886442409e085b",
         "android_client_info": {
-          "package_name": "com.uang.keuangankeluargaku"
+          "package_name": "com.game.forumcpns"
         }
       },
       "oauth_client": [
         {
-          "client_id": "561144303372-e2fetm2cqdmfc5sbnble9ek7t00ptqpl.apps.googleusercontent.com",
+          "client_id": "85650569154-0hgqslt272fe6ovk5ovfq6b29ntq1iod.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.uang.keuangankeluargaku",
-            "certificate_hash": "fd447ff981804f8bea77c5978c18238b0aa6b32a"
+            "package_name": "com.game.forumcpns",
+            "certificate_hash": "3babcdfd9bb780116ac06a46e67d0883b307f85c"
           }
         },
         {
-          "client_id": "561144303372-cfc5aju8t79udaok36nll36n0lvdhdoj.apps.googleusercontent.com",
+          "client_id": "85650569154-f1dhlebji6gdufbkq7a140k7dem08a7a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrVmXb6JsAs92PNhwQy1M_DtEJMaWiApQ"
+          "current_key": "AIzaSyD7A_S_8k1fvSfMtyUBmqUD1uXudzpDxX4"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "561144303372-cfc5aju8t79udaok36nll36n0lvdhdoj.apps.googleusercontent.com",
+              "client_id": "85650569154-f1dhlebji6gdufbkq7a140k7dem08a7a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
